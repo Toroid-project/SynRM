@@ -1,0 +1,4 @@
+# SynRM
+This repository is created for the measurement data acquired through the identification of an experimental synchronous reluctance machine at the University of Győr. 
+
+The simulations, that run in FEMM and wrapped in DTD, are available at https://github.com/KatonaMihaly/Experimental-SynRM-benchmark. It also contains the data used for Redesign for Remanufacturing of a Synchronous Reluctance Machine Considering the Circular Economy Conditions paper intended to the 1st Conference on Sustainability and for the paper titled Remanufacturing a Synchronous Reluctance Machine with Aluminum Winding: an Open Benchmark Problem for FEM Analysis supported by the ÚNKP-23-3-I-SZE-4 Hungarian New National Excellence Program of the Ministry for Culture and Innovation from the source of the National Research, Development, and Innovation Fund.
